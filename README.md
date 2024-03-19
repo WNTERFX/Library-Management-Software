@@ -4,6 +4,6 @@ This will be our Project for Integrative Programming, which is the Library Manag
 
 CHECK THINGS TO DO
 
-Features:
+Status
 
 // add nalang kapag meron na tayong rough drafts sa ating app.
