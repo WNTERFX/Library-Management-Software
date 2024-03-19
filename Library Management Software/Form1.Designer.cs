@@ -39,7 +39,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(292, 118);
             textBox1.TabIndex = 0;
-            textBox1.Text = "Cunny\r\n Master";
+            textBox1.Text = "Cunny\r\n ";
             // 
             // Form1
             // 
