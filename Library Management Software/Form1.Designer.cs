@@ -33,11 +33,13 @@
             // 
             // textBox1
             // 
+            textBox1.Font = new Font("Segoe UI", 20F);
             textBox1.Location = new Point(349, 45);
+            textBox1.Multiline = true;
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(94, 23);
+            textBox1.Size = new Size(292, 118);
             textBox1.TabIndex = 0;
-            textBox1.Text = "Message";
+            textBox1.Text = "Cunny\r\n";
             // 
             // Form1
             // 
