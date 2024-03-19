@@ -28,18 +28,31 @@
         /// </summary>
         private void InitializeComponent()
         {
+            textBox1 = new TextBox();
             SuspendLayout();
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(349, 45);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(94, 23);
+            textBox1.TabIndex = 0;
+            textBox1.Text = "Message";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(textBox1);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private TextBox textBox1;
     }
 }
